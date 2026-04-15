@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Bass Cathedral,DJ Rumble,edm,intense,0.95,140,0.70,0.91,0.03
+12,Velvet Dusk,Luna Veil,r&b,relaxed,0.50,92,0.74,0.68,0.40
+13,Campfire Hymn,Timber Folk,folk,relaxed,0.30,85,0.62,0.42,0.95
+14,Neon Breakdown,Voltline,rock,intense,0.88,160,0.45,0.70,0.08
+15,Ocean Breeze,Slow Stereo,jazz,chill,0.33,70,0.68,0.50,0.88
+16,Late Night Grind,LoRoom,lofi,focused,0.38,76,0.55,0.57,0.80
+17,Cloud Runners,Orbit Bloom,ambient,happy,0.45,95,0.78,0.47,0.85
+18,Saturday Fever,Max Pulse,pop,happy,0.85,126,0.88,0.90,0.12
